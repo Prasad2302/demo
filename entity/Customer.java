@@ -6,6 +6,7 @@ public class Customer {
    private String lastName;
    private String email;
    private long phoneNumber;
+   private String name;
 public Customer() {
 	super();
 }
